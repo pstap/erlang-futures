@@ -1,2 +1,2 @@
 # erlang-futures
-messing around
+implementation for learning purposes
